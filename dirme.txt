@@ -1,0 +1,4 @@
+Experiments on sending message to a particular socket.
+C:\socketio\experiments\hour13\example07
+
+-> now we can send and receive messages per client.
